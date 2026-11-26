@@ -40,7 +40,7 @@
 <path d="M59 42H607" stroke="url(#thread)" stroke-width="1.2"/>
 <rect x="59" y="66" width="182" height="32" rx="16" fill="#181b24" stroke="#8f6e91" stroke-opacity=".55"/>
 <circle cx="81" cy="82" r="4.4" fill="#822e4e"/><circle cx="97" cy="82" r="4.4" fill="#9b6fba"/><circle cx="113" cy="82" r="4.4" fill="#adb4bd"/>
-<text x="131" y="86.5" fill="#c2c8d0" font-family="Segoe UI,Arial,sans-serif" font-size="13">~/0xlillith</text>
+<text x="131" y="86.5" fill="#c2c8d0" font-family="Segoe UI,Arial,sans-serif" font-size="13">~/selun3</text>
 <text x="56" y="184" fill="#f3eaf2" font-family="Segoe UI,Arial,sans-serif" font-size="82" font-weight="600" letter-spacing="-3">selune<tspan fill="#bd8ab8">_</tspan></text>
 <text x="59" y="226" fill="#e9c3db" font-family="Segoe UI,Arial,sans-serif" font-size="29" font-weight="600">Code, circuits &amp; controlled chaos.</text>
 <path d="M59 247H608" stroke="url(#thread)" stroke-width="1"/>
