@@ -26,8 +26,8 @@ Somewhere between a terminal, a soldering iron and a guitar amp feels about righ
 
 |  |  |
 | :--- | :--- |
-| **[Viper ↗](https://github.com/0xlillith/Viper)**<br><sub>HARDWARE · CYBERDECK</sub><br>A custom cyberdeck experiment: printed parts, keyboards, tiny computers and a lot of tinkering. | **[SolidCraft ↗](https://github.com/bherbruck/solvecraft)**<br><sub>OPEN SOURCE · RUST · CAD</sub><br>Exploring parametric CAD in Rust and preparing my first contribution. [My fork →](https://github.com/0xlillith/solvecraft) |
-| **Homelab & self-hosting**<br><sub>LINUX · CONTAINERS · INFRASTRUCTURE</sub><br>Docker, networking, storage, media services and the eternal pursuit of a reliable self-hosted setup. | **[Keyboards & electronics ↗](https://github.com/0xlillith/0xlillith_snap_keymap)**<br><sub>QMK · SOLDERING · 3D PRINTING</sub><br>Firmware, layouts, PCB experiments and custom cases. Also see my [Snap / Tidbit case mod](https://github.com/0xlillith/Snap-Tidbit_casemod). |
+| **[Viper ↗](https://github.com/selun3/Viper)**<br><sub>HARDWARE · CYBERDECK</sub><br>A custom cyberdeck experiment: printed parts, keyboards, tiny computers and a lot of tinkering. | **[SolidCraft ↗](https://github.com/bherbruck/solvecraft)**<br><sub>OPEN SOURCE · RUST · CAD</sub><br>Exploring parametric CAD in Rust and preparing my first contribution. [My fork →](https://github.com/selun3/solvecraft) |
+| **Homelab & self-hosting**<br><sub>LINUX · CONTAINERS · INFRASTRUCTURE</sub><br>Docker, networking, storage, media services and the eternal pursuit of a reliable self-hosted setup. | **[Keyboards & electronics ↗](https://github.com/selun3/0xlillith_snap_keymap)**<br><sub>QMK · SOLDERING · 3D PRINTING</sub><br>Firmware, layouts, PCB experiments and custom cases. Also see my [Snap / Tidbit case mod](https://github.com/selun3/Snap-Tidbit_casemod). |
 
 ### ⌁ What I like working with
 
@@ -47,7 +47,7 @@ Somewhere between a terminal, a soldering iron and a guitar amp feels about righ
 
 <br />
 
-- **[dotfiles](https://github.com/0xlillith/dotfiles)** — personal Linux and development environment configuration.
+- **[dotfiles](https://github.com/selun3/dotfiles)** — personal Linux and development environment configuration.
 - **Local AI & developer tooling** — trying out local models, agent workflows and reproducible setups.
 - **Electronics workbench** — practicing BGA rework, tiny components and board repair, one pad at a time.
 
